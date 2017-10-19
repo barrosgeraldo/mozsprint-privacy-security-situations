@@ -157,7 +157,7 @@ margin-top: 19px;
   font-size: 90px;
   font-weight: 900;
   letter-spacing: 35px;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.2);
 }
 
 @media (max-width: 767px) {
@@ -189,7 +189,7 @@ top: 50%;
   margin: 0 auto;
   line-height: 1.2;
   padding: 20px 0 0 0;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.2);
 }
 @media (max-width: 767px) {
   .header .intro {
